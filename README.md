@@ -1,5 +1,5 @@
 # DN3_creative_coding
-Quels outils en Processing pour générer des images. Ce sont des bases d'exploration qu'il convient de modifier et personnaliser.
+Quelques outils en Processing pour générer des images. Ce sont des bases d'exploration qu'il convient de modifier et personnaliser. Le code est parfois/souvent commenter.
 
 - __outils_pinceau__ : utilise des images comme pinceaux (appuyez avec le bouton de la souris) et sauvegarde l'image créée en png ('S')
 - __outil_grille_vecto__ : compose une grille avec un peu de bruit(aléatoire) en vectoriel
